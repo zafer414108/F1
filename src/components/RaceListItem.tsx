@@ -51,7 +51,9 @@ export default function RaceListItem({ item }: { item: (typeof races)[0]}) {
       borderRightWidth: 1,
       borderColor: 'gainsboro',
     },
-  date: {},
+  date: {
+    fontFamily: 'F1-Regular',
+  },
   month:{
     backgroundColor: 'gainsboro',
     paddingVertical: 3,
@@ -63,15 +65,18 @@ export default function RaceListItem({ item }: { item: (typeof races)[0]}) {
     color: 'dimgray',
     fontWeight: 'bold',
     marginTop: 5,
-  
-  
+
+    fontFamily: 'F1-Bold'
+
   },
   round:{
     color: Colors.primary ,
+    fontFamily: 'F1-Regular',
   },
   country:{
     fontSize: 20,
-    fontWeight:'bold'
+    fontFamily: 'F1-Bold',
+    marginVertical: 7,
   },
   description:{
     color: 'dimgray'
