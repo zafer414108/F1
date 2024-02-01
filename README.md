@@ -1,6 +1,6 @@
 # F1 
 
-This code is a React Native app that displays a list of race items. Here's how it works:
+# This code is a React Native app that displays a list of race items. Here's how it works:
 
 It imports the necessary components and libraries, including StatusBar , StyleSheet , FlatList , SafeAreaView , ActivityIndicator , useFonts , and dayjs .
 
