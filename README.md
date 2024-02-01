@@ -26,3 +26,8 @@ The styles object defines the container style, which sets flex to 1 and backgrou
 
 
 Let me know if you need any further assistance!
+Screen Gif 
+
+
+https://github.com/zafer414108/F1/assets/147662873/d86fca99-c2ed-47e9-bc94-6b7d9504626a
+
