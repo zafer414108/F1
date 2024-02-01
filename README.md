@@ -29,5 +29,9 @@ Let me know if you need any further assistance!
 Screen Gif 
 
 
-https://github.com/zafer414108/F1/assets/147662873/d86fca99-c2ed-47e9-bc94-6b7d9504626a
+
+
+https://github.com/zafer414108/F1/assets/147662873/ac787750-6429-40f6-8939-81843fa04ef2
+
+
 
